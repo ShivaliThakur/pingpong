@@ -1,0 +1,46 @@
+.heading{
+    width: 100%;
+
+}
+
+.heading h1{
+    font-size: 25px;
+    display: inline;
+    float:left;
+}
+
+.heading button{
+    float:right;
+    border: 1px solid white;
+   margin-top: 10px;
+}
+
+#sillyButton{
+    font-size:30px;
+}
+
+#status{
+    font-size: 30px;
+}
+
+.footer{
+    background-color:rgb(255, 0, 0);
+    color:midnightblue;
+    padding-top:10px;
+    padding-bottom:10px;
+    bottom: 0%;
+    position: sticky;
+}
+
+.modal-dialog{
+    width:90%;
+}
+
+#canvas{
+    border: red solid 5px;
+    box-shadow: 5px,5px,10px,blue;
+    border-radius: 20px;
+    
+
+}
+
